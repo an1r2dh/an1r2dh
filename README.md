@@ -1,16 +1,16 @@
-## Hi there 👋
+## Github стата крч
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=an1r2dh&show_icons=true&theme=graywhite)
 
-<!--
-**an1r2dh/an1r2dh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Языки которые я знаю:
+![Static Badge](https://img.shields.io/badge/Luau-white?style=flat-square&logo=Luau&logoColor=%2300A3FF)
 
-Here are some ideas to get you started:
+## Изучаю в данный момент:
+![Static Badge](https://img.shields.io/badge/Rust-white?style=flat-square&logo=rust&logoColor=red)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Связь со мной
+![Static Badge](https://img.shields.io/badge/T.me%2Fan1r2dh-white?style=flat-square&logo=telegram&logoColor=black&link=t.me%2Fan1r2dh)
+
+![Static Badge](https://img.shields.io/badge/an1r2dh-white?style=flat-square&logo=Discord&logoColor=5662f6)
+
+![Static Badge](https://img.shields.io/badge/an1r2dh%40tuta.io-white?style=flat-square&logo=tuta&logoColor=red&link=mailto%3Aan1r2dh%40tuta.io)
+
