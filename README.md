@@ -5,7 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/Luau-white?style=flat-square&logo=Luau&logoColor=%2300A3FF)
 
 ## Изучаю в данный момент:
-![Static Badge](https://img.shields.io/badge/Rust-white?style=flat-square&logo=rust&logoColor=red)
+![Static Badge](https://img.shields.io/badge/typescript-white?style=flat-square&logo=typescript)
 
 ## Связь со мной
 ![Static Badge](https://img.shields.io/badge/T.me%2Fan1r2dh-white?style=flat-square&logo=telegram&logoColor=black&link=t.me%2Fan1r2dh)
