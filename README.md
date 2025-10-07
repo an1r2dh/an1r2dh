@@ -3,8 +3,6 @@
 
 ## Языки которые я знаю:
 ![Static Badge](https://img.shields.io/badge/Luau-white?style=flat-square&logo=Luau&logoColor=%2300A3FF)
-
-## Изучаю в данный момент:
 ![Static Badge](https://img.shields.io/badge/typescript-white?style=flat-square&logo=typescript)
 
 ## Связь со мной
