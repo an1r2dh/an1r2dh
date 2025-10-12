@@ -1,6 +1,3 @@
-## Github стата крч
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=an1r2dh&show_icons=true&theme=graywhite)
-
 ## Языки которые я знаю:
 ![Static Badge](https://img.shields.io/badge/Luau-white?style=flat-square&logo=Luau&logoColor=%2300A3FF)
 ![Static Badge](https://img.shields.io/badge/typescript-white?style=flat-square&logo=typescript)
